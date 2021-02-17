@@ -71,7 +71,7 @@ header{
 
 
 .logo h1:after {
-    border-bottom: 4px solid #111111;
+    border-bottom: 4px solid #74A730;
     content: "";
     display: block;
     position: absolute;
@@ -207,15 +207,26 @@ nav#mainNav a.active:after {
     text-align: center;
     width: 100%;
 	text-transform: uppercase;
+	background: rgb(255 255 255 / 90%);
+    max-width: 540px;
+    padding: 43px 44px 24px;
+
 }
+@media (max-width: 991px)
+.caption {
+	display: none;
+}
+
 
 .caption h1{
 	font-size: 25px;
+	line-height:30px;
 }
 
 
 .caption h1 span.new{
 	position:relative;
+	color: #74A730;
 }
 
 .caption h1 span.new:after{
@@ -801,7 +812,7 @@ form.respondF {
 	.mobileBtn{display: inline-block;float: right;margin-right: 10px;margin-top: -51px;position: relative;}
 	
 	 .mainSlider.flexslider{margin:73px auto 0;}
-	.caption h1{font-size:20px;}
+	.caption h1{font-size:20px;line-height:50px;display:none;}
 	.caption h1 span.new:after{width:17px;top:26px;right:2px;}
 	.mainSlider .flex-direction-nav a{top:55% !important;}
 	
@@ -862,7 +873,8 @@ form.respondF {
 	.mobileBtn{display: inline-block;float: right;margin-right: 5px;margin-top: -51px;position: relative;}
 	
 	 .mainSlider.flexslider{margin:73px auto 0;}
-	.caption h1{font-size:20px;}
+	 .caption {display:none;}
+	.caption h1{font-size:20px;display:none;}
 	.caption h1 span.new:after{width:17px;top:26px;right:2px;}
 	.mainSlider .flex-direction-nav a{top:80% !important;}
 	.projectSlider .flex-direction-nav a{top:60% !important;}
