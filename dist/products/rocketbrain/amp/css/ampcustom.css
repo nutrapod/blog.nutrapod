@@ -81,9 +81,9 @@
 .recode {
 	min-width: 320px;
 	color: #000;
-	background-color: #f1f2f6;
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 17px;
+	background-color: #ffffff;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 22px;
 }
 
 .recode h2 {
@@ -113,7 +113,7 @@
 
 @media(max-width: 767px) {
 	.recode {
-		font-size: 14px;
+		font-size: 20px;
 	}
 	.recode h2 {
 		margin: 0 0 15px;
@@ -140,13 +140,11 @@
 				\* ------------------------------------------------------------ */
 
 .recode .main {
-	    position: relative;
+	position: relative;
     display: flex;
     width: 100%;
     flex-direction: column;
     flex: 1 1 auto;
-
-	padding: 20px;
 	border-top-left-radius: 5px;
 	border-top-right-radius: 5px;
 	background-color: #fff;
@@ -165,7 +163,8 @@
 				\* ------------------------------------------------------------ */
 
 .recode .content {
-	padding: 50px;
+	padding-left: 220px;
+	padding-right: 220px;
 }
 
 .recode .content amp-img {
@@ -177,8 +176,8 @@
 	margin: 5px 0 13px;
 	letter-spacing: normal;
 	line-height: 2.15;
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 20px;
+	font-family: Source Sans Pro, sans-serif;
+	font-size: 22px;
 }
 
 .recode .content p span {}
@@ -207,6 +206,73 @@
 	.recode .content p span {
 		font-size: 21px;
 	}
+}
+
+
+.progress {
+	background: linear-gradient(to right, #74A730 var(--scroll), transparent 0);
+	background-repeat: no-repeat;
+	position: fixed;
+	width: 100%;
+	height: 6px;
+	z-index: 1;
+}
+.special-offer-blue {
+  height: auto;
+  margin-top: 0px;
+  background: #cc0000;
+  color: #FFFFFF;
+  padding: 20px 10px 20px 20px;
+  border-radius: 5px;
+  font-size: 24px;
+  font-weight: 700;
+}
+.special-offer-p {
+  box-sizing: inherit;
+  height: auto;
+  margin-top: -10px;
+  padding: 10px 20px;
+  border-radius: 10px;
+  border: 5px solid #cc0000;
+  font-weight: 400;
+  background-color: #ffe8c1;
+}
+.recode .special-offer-p p {  font-size: 24px;
+}
+
+.uk-grn-btn {
+	background-color: #679324;
+	/* Green */
+	border: none;
+	color: white;
+	padding: 20px;
+	text-align: center;
+	text-decoration: none;
+	display: auto;
+	font-size: 22px;
+	margin: 4px 0px;
+	cursor: pointer;
+	max-width: 100%;
+	max-width: auto;
+	border-radius: 8px;
+	width: 100%;
+}
+
+.uk-grn-btn a {
+	border: none;
+	color: white;
+	padding: 5px;
+	text-align: center;
+	text-decoration: none;
+	display: ;
+	font-size: 22px;
+	cursor: pointer;
+}
+
+.uk-grn-btn:hover {
+	box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+	background-color: #4CAF50;
+	color: white;
 }
 
 
