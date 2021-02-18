@@ -671,3 +671,21 @@
 #borderDemo {
 	border: 5px dashed #A5A5A5;
 }
+#letter {
+  font-size: 22px;
+font-family: 'Source Sans Pro', sans-serif;
+  text-align: left;
+  line-height: 1.4;
+
+}
+#storytext { font-size: 22px;
+font-family: 'Source Sans Pro', sans-serif;
+ }
+ #reviewtext { font-size: 20px;
+font-family: 'Times', serif,;
+color: #535353;
+ }
+ #ukh1 {
+ 	font-size: 48px;
+ }
+ #uk-label-update{background-color:#327e32;color:#fff}
