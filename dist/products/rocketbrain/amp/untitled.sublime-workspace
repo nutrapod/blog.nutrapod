@@ -1,0 +1,722 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"uk-contian",
+				"uk-container-small \tUIkit class"
+			],
+			[
+				"uk-margin-rem",
+				"uk-margin-remove-top \tUIkit class"
+			],
+			[
+				"uk-margin-",
+				"uk-margin-small-top \tUIkit class"
+			],
+			[
+				"uk-margin-remo",
+				"uk-margin-remove-top \tUIkit class"
+			],
+			[
+				"aut",
+				"autoplay"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"uk-margin-auto",
+				"uk-margin-auto-right \tUIkit class"
+			],
+			[
+				"uk-posi",
+				"uk-position-center \tUIkit class"
+			],
+			[
+				"uk-te",
+				"uk-text-center \tUIkit class"
+			],
+			[
+				"uk-align",
+				"uk-align-center \tUIkit class"
+			],
+			[
+				"uk-margin-aut",
+				"uk-margin-auto-right \tUIkit class"
+			],
+			[
+				"uk-width-x",
+				"uk-width-xxlarge \tUIkit class"
+			],
+			[
+				"find",
+				"findsmartly"
+			],
+			[
+				"uk-wdi",
+				"uk-width-auto \tUIkit class"
+			],
+			[
+				"uk-respo",
+				"uk-responsive-width \tUIkit class"
+			],
+			[
+				"uk-respon",
+				"uk-responsive-height \tUIkit class"
+			],
+			[
+				"uk-mar",
+				"uk-margin-small-top \tUIkit class"
+			],
+			[
+				"uk-margin-re",
+				"uk-margin-remove-top \tUIkit class"
+			],
+			[
+				"uk-al",
+				"uk-align-left \tUIkit class"
+			],
+			[
+				"premium",
+				"premiumpettips-logo"
+			],
+			[
+				"uk-fle",
+				"uk-flex-inline \tUIkit class"
+			],
+			[
+				"uk-margin-remove",
+				"uk-margin-remove-bottom \tUIkit class"
+			],
+			[
+				"uk-contan",
+				"uk-container-small \tUIkit class"
+			],
+			[
+				"uk-s",
+				"uk-section \tUIkit class"
+			],
+			[
+				"uk",
+				"uk-hidden"
+			],
+			[
+				"uk-padding",
+				"uk-padding-small \tUIkit class"
+			],
+			[
+				"uk-text",
+				"uk-text-warning \tUIkit class"
+			],
+			[
+				"uk-margin-au",
+				"uk-margin-auto-right \tUIkit class"
+			],
+			[
+				"uk-text-",
+				"uk-text-bold \tUIkit class"
+			],
+			[
+				"bath",
+				"bathmat-review-3"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "full.html",
+			"settings":
+			{
+				"buffer_size": 15207,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/ampcustom.css",
+			"settings":
+			{
+				"buffer_size": 11715,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/amp.css",
+			"settings":
+			{
+				"buffer_size": 40241,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sidebar.html",
+			"settings":
+			{
+				"buffer_size": 23430,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rel",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"li",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"LIVE",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"liv",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"enab",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Enable Package"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"enable",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"parag",
+				"Package Control: Install Package"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"LiveReload: Enable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"webpack",
+			"./node_modules/.bin/webpack",
+			"echo $PATH",
+			"browser-sync start --proxy \"myproject.dev\" --files \"css/*.css\"",
+			"browser-sync start --server --files \"index/woo.html\"",
+			"browser-sync start ",
+			"browser-sync start --server --files \"woo/*.html\"",
+			"cd ~/Library/Application\\ Support/Sublime\\ Text\\ 3/Packages/",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/robbieweathers/NutraPod_Amadeus633/blog.nutrapod/dist/products/rocketbrain/amp/css/amp.css",
+		"/Users/robbieweathers/NutraPod_Amadeus633/blog.nutrapod/dist/products/rocketbrain/amp/css/ampcustom.css",
+		"/Users/robbieweathers/NutraPod_Amadeus633/blog.nutrapod/dist/products/rocketbrain/amp/full.html",
+		"/Users/robbieweathers/NutraPod_Amadeus633/blog.nutrapod/dist/products/rocketbrain/lp4/index.html",
+		"/Users/robbieweathers/NutraPod_Amadeus633/blog.nutrapod/dist/index.html",
+		"/Users/robbieweathers/NutraPod_Amadeus633/blog.nutrapod/dist/products/rocketbrain/amp/index.html",
+		"/Users/robbieweathers/NutraPod_Amadeus633/blog.nutrapod/dist/css/base.css",
+		"/Users/robbieweathers/NutraPod_Amadeus633/blog.nutrapod/dist/css/main.css",
+		"/Users/robbieweathers/Library/Mobile Documents/com~apple~CloudDocs/Chrome Downloads/NEWtrapod/HTML/index.html",
+		"/Users/robbieweathers/projects/dev/us.sitesucker.mac.sitesucker/ourhomediscounts.com/html transfer/fb/temp6.amp.uikit.html",
+		"/Users/robbieweathers/botfarm/credentials/new_accounts.txt",
+		"/Users/robbieweathers/botfarm/credentials/LightsailDefaultKey-us-east-1 (1).pem",
+		"/Users/robbieweathers/Life/madeline_keywords",
+		"/Users/robbieweathers/Library/Mobile Documents/com~apple~CloudDocs/Chrome Downloads/EntityExport_2020-12-01_2020-12-10.json",
+		"/Users/robbieweathers/botfarm/trailrun.json",
+		"/Users/robbieweathers/Documents/11111",
+		"/Users/robbieweathers/OneDrive/- Building (pro)/official amp/amp__dev/templates/untitled5.html",
+		"/Users/robbieweathers/Documents/GitHub/table.js",
+		"/Users/robbieweathers/Documents/GitHub/table_everflow.html",
+		"/Users/robbieweathers/projects/blog.findsmartly/index.html",
+		"/Users/robbieweathers/projects/blog.findsmartly/content/list-v3-fb-go.html",
+		"/Users/robbieweathers/projects/blog.findsmartly/if/instantlyfresh4-fb.html",
+		"/Users/robbieweathers/projects/blog.findsmartly/if/instantlyfresh-3-fb.html",
+		"/Users/robbieweathers/projects/blog.findsmartly/Temp_1.html",
+		"/Users/robbieweathers/projects/blog.findsmartly/css/buttons.css",
+		"/Users/robbieweathers/projects/blog.findsmartly/offerpage.htm",
+		"/Users/robbieweathers/Documents/GitHub/site_template_build/nutshell.html",
+		"/Users/robbieweathers/projects/swipe_file/Winnebago/Raffle/raffleproof 2.html",
+		"/Users/robbieweathers/projects/blog.findsmartly/content/list-v5-fb.html",
+		"/Users/robbieweathers/projects/blog.findsmartly_Backup/BACK_TO_TOP.html",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/editor-2817046526.html",
+		"/Users/robbieweathers/Library/Mobile Documents/com~apple~CloudDocs/Chrome Downloads/a599d501cef0efc208a4c6e8df6477fe/index.html",
+		"/Users/robbieweathers/projects/blog.findsmartly_Backup/InstantlyFresh_PIXEL",
+		"/Users/robbieweathers/projects/blog.findsmartly_Backup/IC_PIXEL_BUTTON.html",
+		"/Users/robbieweathers/Documents/GitHub/site_template_build/ui-kit (untouched)/newsBlog.html",
+		"/Users/robbieweathers/projects/blog.findsmartly/content/list-v4-fb.html",
+		"/Users/robbieweathers/projects/blog.findsmartly_Backup/Pinterest_Pixel.html",
+		"/Users/robbieweathers/Documents/GitHub/articles.findsmartly.com/instantlyfreshreview.html",
+		"/Users/robbieweathers/projects/blog.findsmartly/aculiefreview.html",
+		"/Users/robbieweathers/projects/blog.findsmartly/aculief1-fb.html",
+		"/Users/robbieweathers/OneDrive/- Building (pro)/vulcan-uikit copy/dist/sendemail.php",
+		"/Users/robbieweathers/OneDrive/- Building (pro)/vulcan-uikit copy/src/scss/layouts/_header.scss",
+		"/Users/robbieweathers/projects/blog.findsmartly/xy4fb.html",
+		"/Users/robbieweathers/projects/blog.findsmartly/content/list-v3-pin.html",
+		"/Users/robbieweathers/projects/blog.findsmartly/content/list-v2-pin.html",
+		"/Users/robbieweathers/projects/blog.findsmartly/content/xyfindit-2.html",
+		"/Users/robbieweathers/Library/Mobile Documents/com~apple~CloudDocs/purge-march6-april6/- All Landers/products/dev/pure-rogue-ui-kit-review-lander.html",
+		"/Users/robbieweathers/projects/blog.findsmartly_Backup/List_Item.html",
+		"/Users/robbieweathers/projects/blog.findsmartly/content/list.html",
+		"/Users/robbieweathers/projects/blog.findsmartly_backup/PIXELS.html",
+		"/Users/robbieweathers/projects/blog.findsmartly_backup/METADATA.html",
+		"/Users/robbieweathers/projects/list-rough.html",
+		"/Users/robbieweathers/projects/blog.findsmartly/list.html",
+		"/Users/robbieweathers/projects/blog.findsmartly/article.html",
+		"/Users/robbieweathers/projects/json/cart.json",
+		"/Users/robbieweathers/projects/amp-list.html",
+		"/Users/robbieweathers/4am-official/ui-dashboard-blue/dist/script.js",
+		"/Users/robbieweathers/4am-official/ui-dashboard-blue/dist/workflow.html",
+		"/Users/robbieweathers/4am-official/ui-dashboard-blue/dist/index.html",
+		"/Users/robbieweathers/4am-official/ui-dashboard-blue/dist/domains.html",
+		"/Users/robbieweathers/4am-official/ui-dashboard-blue/dist/products.html",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/54498b66-7b1f-4426-95cf-fb2ca393d8ad/home/offers/goodlivingtips.com/fb/charcoal/naturefresh-303-craig-moves-in.html",
+		"/Users/robbieweathers/OneDrive/- Building (pro)/uikit-all-pages/full/newsBlog.html",
+		"/Users/robbieweathers/Downloads/- Codepen/vuexy-admin-v4.2/vuexy-vuejs-admin 2/documentation.html",
+		"/Users/robbieweathers/Library/Mobile Documents/com~apple~CloudDocs/WP/quill_tech-blog-2",
+		"/Users/robbieweathers/4am-official/ec2/snippets__ec2.html",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/54498b66-7b1f-4426-95cf-fb2ca393d8ad/home/offers/premiumpettips.com/fb/charcoal/naturefresh-302-cheap-grammy.html",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/54498b66-7b1f-4426-95cf-fb2ca393d8ad/home/offers/premiumpettips.com/fb/itchrelief/itchrelief-17-beths-story.html",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/54498b66-7b1f-4426-95cf-fb2ca393d8ad/home/offers/premiumpettips.com/fb/itchrelief/itchrelief-adv5.html",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/54498b66-7b1f-4426-95cf-fb2ca393d8ad/home/offers/premiumpettips.com/fb/itchrelief/itchrelief-adv2.html",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/54498b66-7b1f-4426-95cf-fb2ca393d8ad/home/offers/thetechreportdigest.com/html/bathmat/bathmat-43-nursing-home-savior.html",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/54498b66-7b1f-4426-95cf-fb2ca393d8ad/home/offers/thetechreportdigest.com/html/bathmat/bathmatreview-rt.html",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/54498b66-7b1f-4426-95cf-fb2ca393d8ad/home/offers/thetechreportdigest.com/html/bathmat/bathmat-32-fallen.html",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/54498b66-7b1f-4426-95cf-fb2ca393d8ad/home/offers/thetechreportdigest.com/html/bathmat/bathmat-46-fallen-v2-vid.html",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/54498b66-7b1f-4426-95cf-fb2ca393d8ad/home/offers/premiumpettips.com/fb/itchrelief/itchrelief-14-saving-bluebell.html",
+		"/Users/robbieweathers/4am-official/premiumpettips.com/Itch Relief/itchrelief-15-hotspots-v3.html",
+		"/Users/robbieweathers/4am-official/premiumpettips.com/Itch Relief/itchrelief-14-saving-bluebell.html",
+		"/Users/robbieweathers/4am-official/premiumpettips.com/Itch Relief/itchrelief-13-club-hotspot.html",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/54498b66-7b1f-4426-95cf-fb2ca393d8ad/home/offers/premiumpettips.com/fb/itchrelief/itchrelief-temp.html",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/54498b66-7b1f-4426-95cf-fb2ca393d8ad/home/offers/premiumpettips.com/fb/reviews/itchrelief-reviews-comments-va3.html",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/54498b66-7b1f-4426-95cf-fb2ca393d8ad/home/offers/premiumpettips.com/fb/reviews/itchrelief-reviews-comments.html",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/54498b66-7b1f-4426-95cf-fb2ca393d8ad/home/offers/goodlivingtips.com/fb/charcoal/naturefresh-306-mold-inheritance.html",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/54498b66-7b1f-4426-95cf-fb2ca393d8ad/home/offers/goodlivingtips.com/fb/charcoal/naturefresh-305-rachels-grandma.html",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/54498b66-7b1f-4426-95cf-fb2ca393d8ad/home/offers/goodlivingtips.com/fb/charcoal/naturefresh-304-meghans-story.html",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/54498b66-7b1f-4426-95cf-fb2ca393d8ad/home/offers/goodlivingtips.com/fb/charcoal/naturefresh-nutshell.html",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/54498b66-7b1f-4426-95cf-fb2ca393d8ad/home/offers/goodlivingtips.com/fb/charcoal/naturefresh-282-ma-the-meatloaf-v2.html",
+		"/Users/robbieweathers/4am-official/WORDPRESS/termsandconditions.html",
+		"/Users/robbieweathers/4am-official/WORDPRESS/privacypolicy.html",
+		"/Users/robbieweathers/4am-official/WORDPRESS/contactus.html",
+		"/Users/robbieweathers/4am-official/WORDPRESS/aboutus.html",
+		"/Users/robbieweathers/package copy.json",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/54498b66-7b1f-4426-95cf-fb2ca393d8ad/home/offers/thetechreportdigest.com/html/bathmat/bathmat-46-fallen-v2.html",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/54498b66-7b1f-4426-95cf-fb2ca393d8ad/home/offers/thetechreportdigest.com/html/bathmat/bathmat-adv2.html",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/editor-3461997627.html",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/54498b66-7b1f-4426-95cf-fb2ca393d8ad/home/offers/thetechreportdigest.com/html/bathmat/charcoal-adv2.html",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/54498b66-7b1f-4426-95cf-fb2ca393d8ad/home/offers/premiumpettips.com/fb/itchrelief/itchrelief-12-hotspots.html",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/54498b66-7b1f-4426-95cf-fb2ca393d8ad/home/offers/goodlivingtips.com/fb/charcoal/naturefresh-382-ma-the-meatloaf-v2.html",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/54498b66-7b1f-4426-95cf-fb2ca393d8ad/home/offers/premiumpettips.com/fb/itchrelief/foundertraincopy.htm",
+		"/Users/prod/all wizzi/pixels/PIXEL.html",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/8f136ca7-813e-41bb-a48b-2047c417002a/home/offers/goodlivingtips.com/fb/prob/prob-25-waitress-v3.html",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/8f136ca7-813e-41bb-a48b-2047c417002a/home/offers/goodlivingtips.com/fb/prob/prob-25-waitress-v2.html",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/8f136ca7-813e-41bb-a48b-2047c417002a/home/offers/goodlivingtips.com/fb/prob/prob-article-template.html",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/8f136ca7-813e-41bb-a48b-2047c417002a/home/offers/goodlivingtips.com/policies/privacy.htm",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/8f136ca7-813e-41bb-a48b-2047c417002a/home/offers/lessanxioustoday.com/fb/tuffbolt/tuffbolt-3-sales-home-invasion.html",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/8f136ca7-813e-41bb-a48b-2047c417002a/home/offers/lessanxioustoday.com/fb/tuffbolt/tuffbolt-article-template.html",
+		"/Users/robbieweathers/yarn.lock",
+		"/Users/robbieweathers/OneDrive/- Building (pro)/vue-froala-wysiwyg-master/README.md",
+		"/Users/robbieweathers/OneDrive/useful-copy-paste/wordpress.html",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/8f136ca7-813e-41bb-a48b-2047c417002a/home/offers/thetechreportdigest.com/bowlsparkle-42-old-friends.html",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/8f136ca7-813e-41bb-a48b-2047c417002a/home/offers/thetechreportdigest.com/bowlsparkle-40-dog-toilet.html",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/8f136ca7-813e-41bb-a48b-2047c417002a/home/offers/thetechreportdigest.com/bowlsparkle-41-crappy-roommate.html",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/8f136ca7-813e-41bb-a48b-2047c417002a/home/offers/buyairjoi.com/aw/mold.htm",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/8f136ca7-813e-41bb-a48b-2047c417002a/home/offers/buyairjoi.com/aw/smo1.htm",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/8f136ca7-813e-41bb-a48b-2047c417002a/home/offers/buyairjoi.com/aw/smo2.htm",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/8f136ca7-813e-41bb-a48b-2047c417002a/home/offers/buyairjoi.com/aw/pets2.htm",
+		"/Users/robbieweathers/Downloads/us.sitesucker.mac.sitesucker/airjoi.com/info21.php.html",
+		"/Users/robbieweathers/Downloads/us.sitesucker.mac.sitesucker/airjoi.com/info27.php.html",
+		"/Users/robbieweathers/Downloads/us.sitesucker.mac.sitesucker/airjoi.com/info26.php.html",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/b9b923af-6021-43a0-a196-676fc6edaf4a/home/offers/thetechreportdigest.com/html/bathmat/bathmat-32-fallen.html",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/editor-3873470550.html",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/editor-1778283392.html",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/8f136ca7-813e-41bb-a48b-2047c417002a/home/offers/ourdesignerhomes.com/html/fb/charcoal-123-moldy-landlord.html",
+		"/Users/robbieweathers/4am-official/BowlSparkle/temp1/temp1_files/scroll38_42.css",
+		"/Users/robbieweathers/4am-official/BowlSparkle/temp1_files/scroll38_42.css",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/8f136ca7-813e-41bb-a48b-2047c417002a/home/offers/thetechreportdigest.com/bowlsparkle-38-lazy-general.html",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/8f136ca7-813e-41bb-a48b-2047c417002a/home/offers/thetechreportdigest.com/bowlsparkle-article-template-2.html",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/ebf4c0d4-9e03-4a73-a219-c7e426511b51/home/offers/thetechreportdigest.com/bowlsparkle-article-template-2.html",
+		"/private/var/folders/f6/qhpx4w717r936vnrp4lt164r0000gn/T/ebf4c0d4-9e03-4a73-a219-c7e426511b51/home/offers/thetechreportdigest.com/bowlsparkle-article-template.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"article",
+			"aside",
+			"btn",
+			"button",
+			"ari",
+			"visited",
+			"a.",
+			",a:visited{color:inherit}",
+			"visited",
+			"after",
+			"a ",
+			"header",
+			"when I was",
+			"</span></p>",
+			"<span style=\"font-size: 20px;\">",
+			"sidebar",
+			"main",
+			"/pages/",
+			"pages/",
+			"000",
+			"active",
+			":active",
+			"round",
+			"uk-button",
+			"weight",
+			"<p><span style=\"font-size: 20px;\">",
+			"pixel",
+			"vertical bu",
+			"contact",
+			"widget",
+			"ndn-contact-button",
+			"ndn-contact",
+			"main",
+			"body",
+			"/body",
+			"products",
+			"blog",
+			"content",
+			"sidebar",
+			"header",
+			"read more",
+			"titleBig",
+			"title",
+			"about",
+			"black",
+			"@media",
+			"slider",
+			".slider  ",
+			"slider",
+			"about",
+			"offset sec",
+			"offset",
+			"caption",
+			"slides",
+			"flexslider",
+			"slides",
+			"slide",
+			"new",
+			"BLACK",
+			"CAPTION",
+			"LINE-HEIG",
+			"all about"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/robbieweathers/NutraPod_Amadeus633/blog.nutrapod"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "full.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15207,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3737,
+								3737
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/ampcustom.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11715,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7987,
+								7987
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 10998.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/amp.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 40241,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12357,
+								12357
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 98579.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "sidebar.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23430,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								649,
+								649
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 120.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 108.0
+	},
+	"pinned_build_system": "Packages/ActionScript/ActionScript.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 214.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

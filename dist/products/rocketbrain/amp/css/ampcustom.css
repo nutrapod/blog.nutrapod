@@ -353,7 +353,6 @@
 	color: #fff;
 	font-size: 30px;
 	vertical-align: middle;
-	font-family: 'Oswald', sans-serif;
 	line-height: 1;
 }
 
@@ -477,7 +476,6 @@
 }
 
 .btn--big span {
-	font-family: 'Source Sans Pro', sans-serif;
 	font-weight: 700;
 }
 

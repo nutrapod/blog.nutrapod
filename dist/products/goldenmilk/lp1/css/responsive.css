@@ -1,0 +1,1640 @@
+/* ========== Max-width -- 1200px =========== */
+
+ @media(max-width:1199px){
+.scaled-video iframe {
+    max-width: 400px;
+    height: 225px;
+}
+   .single-product__description__section--main-content img {
+    max-width: 100%;
+    transform: inherit;
+}
+   span.product-page__type-variant__label__title {
+    font-size: 16px;
+}
+   span.product-page__type-variant__label__title::after {
+    top: 5px;
+}
+}
+
+/* ========== Max-width -- 1080 =========== */
+
+ @media(max-width:1079px){
+.scaled-video iframe {
+    max-width: 360px;
+    height: 200px;
+}
+   .with-rocket-brain-section-wrap h4.rich-text__heading--medium.section-heading {
+    font-size: 39px;
+}
+}
+ 
+/* ========== Max-width -- 1024px =========== */
+
+@media(max-width:1024px){
+
+  #collection-list-grid {
+    margin-top: 80px;
+  }
+
+  .energy-section-wrap .image-content__image-wrapper img, .rocket-brain-coffee-img img {
+    max-width: 450px;
+  }
+  .outer-div-richtext {
+    margin-top: 50px;
+  }
+  .site-nav li.site-nav__item {
+    margin-left: 25px;
+  }
+  .with-rocket-brain-section-wrap h4.rich-text__heading--medium.section-heading {
+    font-size: 36px;
+}
+  .vaiant-property span.product-page__type-variant__label__title {
+    font-size: 16px;
+}
+  span.money {
+    font-size: 18px;
+}
+  .prd_variants {
+    flex: 0 0 30%;
+    max-width: 30%;
+}
+  .hero {
+    height: auto;
+}
+  .product-single__title {
+    font-size: 32px;
+}
+  .hero-content {
+    bottom: -40px;
+}
+  .nutraprod-care-section-wrap .column-flex__content {
+    padding: 28px 18px 25px;
+}
+  p.best-seller-badge {
+    width: 120px;
+
+}
+  .products_quantity_section .SRI-widget-form label {
+    margin-right: 5px;
+}
+}
+
+/* ========== Max-width -- 992px =========== */
+
+@media(max-width: 991px){
+
+  /***** Header *****/
+  .hero {
+    height: 600px;
+}
+  .top-menu li {
+    padding: 0 10px;
+  }
+  .contact_info li {
+    padding: 12px 20px 12px 0;
+  }
+
+  .grid--table>.grid__item.header-logo {
+    width: auto;
+    float: left;
+  }
+  .aboutus-section-wrap {
+    padding: 50px 0 0;
+    /*     background-color: #f6ffeb; */
+  }
+  .flex__item .image-content__text {
+    padding: 0 0 0 20px;
+  }
+
+  .feature-collection-section-wrap .grid__item .featured-card {
+    min-height: 320px;
+}
+
+  .nutraprod-care-section-wrap .column-flex__content p.h5 {
+    font-size: 20px;
+    margin: 0 0 12px;
+  }
+.nutraprod-care-section-wrap .column-flex__content {
+    padding: 28px 15px 0;
+}
+  h4.h1 .site-footer__section-title{
+    font-size: 20px;    
+    margin-bottom: 17px;
+  }
+
+  .flex-footer .flex__item {
+    justify-content: flex-start;
+    flex: 0 0 50% !important;
+  }
+  .nutraprod-care-section-wrap .section-block__header--padded {
+    padding-top: 0;
+  }
+  .change-health-section-wrap {
+    padding: 40px 20px 50px;
+  }
+  .section-heading {
+    font-size: 30px;
+  }
+  .video_title {
+    margin-bottom: 35px;
+  }
+
+  .image-content__image-wrapper img {
+    max-width: 560px;
+    height: auto;
+    object-fit: cover;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  .video-section__player-close {
+    position: fixed;
+    left: -20px;
+    top: -20px;
+  }
+
+  .site-nav li.site-nav__item {
+    margin-left: 15px;
+  }
+  .site-nav li.site-nav__item .site-nav__link {
+    font-size: 16px;
+  }
+  .site-header__logo img {
+    max-width: 180px !important;
+    width: 180px;
+  }
+
+  /******  landing page ******
+  ****************************/
+
+  .rocket-brain-coffee-img .image-content__image-wrapper img {
+    max-width: 420px !important;
+    top: 50% !important;
+    transform: translateY(-50%);
+  }
+
+  .energy-section-wrap .image-content__image-wrapper img {
+    max-width: 420px;
+    left: 0;
+    transform: translateY(-50%);
+    top: 50%;
+    height: auto;
+  }
+
+  .rocket-brain-coffee-text h2.rocket-brain-coffee-heading, .rocket-brain-coffee-text p {
+    padding-left: 20px;
+  }
+  .rocket-brain-coffee-text a {
+    margin-left: 20px;
+  }
+  .vitamins-section-wrap .flex__item {
+    padding: 0 !important;
+  }
+  .with-rocket-brain-section-wrap ul.rocket-brain-text li {
+    padding-right: 30px;
+  }
+  .try-rocket-brain-section-wrap .try-rocket-brain-risk-free .section-heading {
+    margin-bottom: 10px;
+  }
+  .Ingredients {
+    padding: 10px 0 30px;
+  }
+  .outer-div-richtext {
+    margin-top: 60px;
+  }
+  .vitamins-section-wrap {
+    padding-top: 10px !important;
+  }
+  .video-section-wrap {
+    padding: 28px 0 80px;
+}
+  
+ /****** Product-details page ******
+  *********************************/
+  
+  .scaled-video iframe {
+    height: 400px;
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+}
+  .single-product__description__section--side-bar {
+    width: 100%;
+    max-width: 100%;
+}
+  .single-product__description__section--main-content {
+    width: 100%;
+}
+  .full-width--return-link {
+    padding: 60px 0;
+}
+  .with-rocket-brain-section-wrap h4.rich-text__heading--medium.section-heading {
+    font-size: 27px;
+}
+  .prd_variants {
+    flex: 0 0 50%;
+    max-width: 100%;
+    width: 50%;
+}
+.variants-section-k {
+    top: 51%;
+}
+  .main-prd-sec {
+    margin-bottom: 0;
+}
+  .spr-badge-starrating {
+    display: inline-block;
+  }
+  .product-single__title {
+    font-size: 26px;
+}
+  .slick-prev {
+    left: -8px;
+}
+  .slick-next {
+    right: -8px;
+}
+  .site-nav li.site-nav__item .site-nav__link {
+  font-size: 14px;
+}
+  .site-nav li.site-nav__item {
+    font-size: 14px;
+}
+  .product_heading {
+    width: 100%;
+}
+  span.spr-badge-caption {
+    font-size: 16px;
+}
+  i.spr-icon.spr-icon-star {
+    font-size: 16px;
+}
+span.variant_price {
+    display: grid;
+}
+  .hero-content {
+    bottom: 110px;
+}
+  .customer-reviews .section-block__header {
+    margin-bottom: 0px;
+}
+  h4.rich-text__heading--medium.section-heading br {
+    display: none;
+}
+  .product-form__item.product-form__item--quantity {
+    margin-top: 0;
+}
+  p.best-seller-badge {
+    width: 80px;
+}
+.products_quantity_section .SRI-widget {
+    margin-top: 110px;
+    background: transparent;
+}
+  .products_quantity_section .SRI-widget-form label {
+    font-size: 14px !important;
+    padding: 20px 22px;
+}
+  
+/*  about-us page  */
+.about-inner-content {
+    width: 80%;
+    margin: -77px auto 0;
+    box-shadow: 0 20px 10px -19px rgb(0 0 0 / 10%);
+    overflow: hidden;
+}
+.about-image-wrap {
+    position: static;
+    margin-top: 50px;
+    transform: translateY(0%);
+    max-width: 100%;
+    text-align: center;
+    height: auto;
+}
+  .main-dev {
+    margin-top: 0;
+}
+.main-about-content-wrap {
+    margin: 50px 0 0;
+}
+  .main-dev .flex__item.text-left {
+    display: flex;
+    flex-flow: column-reverse;
+}
+  .about-image-wrap img {
+    height: auto;
+    object-position: right;
+}
+}
+
+/* ========== Max-width -- 768px =========== */
+
+@media(max-width: 767px){
+
+  /******** Header ********/
+  .grid.grid--table.mobile-menu {
+    display: flex;
+    flex-flow: row-reverse;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .mobile-menu .site-header__link {
+    padding: 0;
+  }
+  .site-header button.text-link.site-header__link.js-drawer-open-left {
+    float: right;
+    padding-left: 15px;
+  }
+  .mobile-menu .site-header__link .icon {
+    width: 40px;
+    height: 40px;
+    fill: #74a730;
+    margin: 0 10px 0 0;
+  }
+  .grid.grid--table.mobile-menu:after{
+    display:none;
+  }
+
+  .contact_info li:first-child {
+    display: none;
+  }
+
+  #SiteNavCompressed {
+    margin-left: auto;
+  }
+  .hero-wrapper .hero-content__title-wrapper h2.hero-content__title {
+    font-size: 32px;
+  }
+  .hero-content {
+    bottom: 20px;
+  }
+  padding-left: 5px;
+  /******** About ********/
+
+  .section-heading {
+    font-size: 30px;
+  }
+  p {
+    line-height: 22px;
+    font-size: 16px;
+  }
+  .flex__item .image-content__text {
+    padding: 20px 0 0;
+  }
+  .medium-up--one-half {
+    width: 100%;
+    -ms-flex-preferred-size: 100%;
+    -webkit-flex-basis: 100%;
+    -moz-flex-basis: 100%;
+    flex-basis: 100%;
+  }
+  .image-content__image-wrapper img {
+    max-width: 100%;
+    top: 0;
+    height: auto;
+    object-fit: cover;
+    transform: translateY(0);
+  } 
+  .aboutus-section-wrap {
+    padding: 30px 0 0;
+  }
+  .flex--no-gutter>.flex__item {
+    padding-bottom: 20px;
+    padding: 0;
+  }
+  #collection-list-grid {
+    margin-top: 28px;
+  }
+  .video-section-wrap {
+    padding: 40px 0 40px;
+  }
+  .video_title {
+    margin-bottom: 35px;
+  }
+  .feature-collection-section-wrap .grid__item .featured-card {
+    min-height: 380px;
+        min-height: 440px;
+  }
+  .feature-collection-section-wrap .featured-card__image-container {
+    margin-top: 0; 
+  }
+  .video-section {
+    max-width: 100%;
+    width: 100%;
+  }
+  .change-health-section-wrap {
+    padding: 40px 0 48px;
+  }
+  .video-section__cover {
+    min-height: 400px;
+  }
+  .change-health-section-inner {
+    max-width: 700px;
+  }
+  .nutraprod-care-section-wrap .section-block__header--padded {
+    padding-top: 0;
+  }
+  .nutraprod-care-section-wrap .column-flex__content p.h5 {
+    font-size: 20px;
+    margin-bottom: 14px;
+  }
+  .nutraprod-care-section-wrap .column-flex__content {
+    padding: 20px 5px 30px;
+  }
+  .nutraprod-care-section-wrap .column-flex__content p {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  #shopify-section-1607437809c227e741{
+    margin-bottom: 35px;
+  }
+  h4.h1.site-footer__section-title {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  .flex-footer .flex__item {
+    -webkit-flex: 1 1 100% !important;
+    -moz-flex: 1 1 100%;
+    -ms-flex: 1 1 100%;
+    flex: 1 1 100%;
+    justify-content: left;
+  }
+  .site-footer__section {
+    width: 100%;
+    padding-bottom: 20px;
+  }
+
+  /***** hamburger ******/
+
+  .drawer--left .drawer__nav-link {
+    font-size: 18px;
+  }
+  .grid--table.mobile-menu>.grid__item {
+    padding-left: 20px;
+    text-align: initial !important;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .column-flex__image{
+    height: 70px;
+  }
+
+  .small--one-quarter {
+    width: 30%;
+    -ms-flex-preferred-size: 30%;
+    -webkit-flex-basis: 30%;
+    -moz-flex-basis: 30%;
+    flex-basis: 30%;
+  }
+
+  li.site-nav__item {
+    margin-left: auto;
+  }
+  .try-rocket-brain-section-wrap .try-rocket-brain-risk-free .section-heading {
+    font-size: 28px;
+  }
+  .try-rocket-brain-section-wrap .try-rocket-brain-risk-free .rich-text__text--medium p:last-child {
+    margin-top: 10px;
+    margin-bottom: 0; 
+  }
+
+  /******  landinfg page ******
+  ****************************/
+
+  #shopify-section-rich-text-1 {
+    margin-bottom: 0;
+  }
+  .rocket-brain-coffee-img .image-content__image-wrapper img {
+    max-width: 100% !important;
+    top: 0 !important;
+    transform: inherit;
+  }
+  .rocket-brain-coffee-text h2.rocket-brain-coffee-heading, .rocket-brain-coffee-text p {
+    padding-left: 0;
+  }
+  .rocket-brain-coffee-text a {
+    margin-left: 0;
+  }
+  .rocket-brain-coffee-text h2.rocket-brain-coffee-heading{
+    margin-top: 20px;
+  }
+  .Ingredients {
+    padding: 0;
+    font-size: 28px;
+    margin-bottom: 10px;
+    line-height: 32px;
+  }
+  .outer-div-richtext {
+    margin-top: 40px;
+  }
+  .outer-div-richtext .try-rocket-brain-section-wrap {
+    padding: 0 0 30px;
+  }
+  .vitamins-section-wrap {
+    padding: 0 ;
+  }
+  .vitamins-section-wrap .flex__item .image-content__text {
+    padding: 20px 0 0 !important;
+  }
+  .vitamins-section-wrap .flex__item h2 {
+    margin: 0;
+  }
+  .vitamins-section-wrap p {
+    margin-bottom: 10px;
+    padding-right: 0;
+  }
+  .vitamins-section-wrap p:last-child {
+    margin-bottom: 40px;
+  }
+  .vitamins-section-wrap .image-content__image-wrapper img {
+    max-width: 100%;
+    left: 0;
+    transform: inherit;
+    top: 0;
+  }
+  .energy-section-wrap {
+    padding: 0 !important;
+  }
+  .energy-section-wrap .image-content__image-wrapper img {
+    max-width: 100%;
+    left: 0;
+    transform: inherit;
+    top: 0;
+  }
+  .energy-section-wrap .flex__item.image-content__text.text-left a {
+    margin-top: 0;
+  }
+  .with-rocket-brain-section-wrap .try-rocket-brain-risk-free {
+    padding: 0;
+  }
+  .with-rocket-brain-section-wrap ul.rocket-brain-text li {
+    margin-bottom: 8px;
+  }
+
+  #shopify-section-image-content-1 {
+    margin-bottom: 40px;
+  }
+  .outer-div-richtext .index-section {
+    margin-bottom: 40px;
+  }
+  #shopify-section-image-content-2 {
+    margin-bottom: 40px;
+  }
+.change-health-section-inner p {
+    padding: 0;
+    line-height: 22px;
+}
+  .vitamins-section-wrap .flex.flex--grid.flex--no-gutter {
+    flex-flow: column-reverse;
+  }
+  .outer-div-richtext .try-rocket-brain-risk-free {
+    padding: 20px 0 0;
+  }
+  #shopify-section-image-content-1 .aboutus-section-wrap {
+    Padding-top: 40px;
+  }
+  .rocket-brain-coffee-text p {
+    margin-bottom: 20px;
+  }
+  .with-rocket-brain-section-wrap h4.rich-text__heading--medium.section-heading {
+    width: 100%;
+    text-transform: capitalize;
+    color: #000;
+    margin-bottom: 20px;
+  }
+  .try-rocket-brain-section-wrap .try-rocket-brain-risk-free {
+    padding:20px 0 0;
+  }
+  
+/****** Product-details page ******
+  *********************************/
+  .scaled-video iframe {
+    height: 300px;
+}
+    .full-width--return-link {
+    padding: 40px 0;
+}
+p.main-content-image3 {
+    margin-bottom: 8px;
+}
+  .medium-up--two-fifths, .medium-up--three-fifths {
+    width: 100%;
+}
+  .product-form__item.product-form__item--quantity {
+    margin-top: 150px;
+}
+  .product-single__info-wrapper {
+    padding: 0;
+}
+  .vaiant-property span.product-page__type-variant__label__title {
+    font-size: 15px;
+}
+  .prd_variants {
+    flex: 0 0 30%;
+    max-width: 100%;
+    width: 30%;
+}
+.variants-section-k {
+    top: 40%;
+}
+  .products_quantity_section .SRI-widget-form label {
+    margin-right: 16px;
+}
+  .product-form__item.product-form__item--quantity {
+    margin-top: 0;
+}
+  .products_quantity_section .SRI-widget-form div:last-child {
+    padding-left: 0;
+}
+  span.variant_price {
+    display: inline-block;
+}
+  .hero-content {
+    bottom: 140px;
+}
+  .hero-content-wrapper {
+    max-width: 555px;
+}
+  .customer-reviews .section-block--padding {
+    padding: 10px 0 0;
+}
+p.best-seller-badge {
+    left: 4px;
+    width: 120px;
+}
+  .product_top_info {
+    margin-bottom: 14px;
+    text-align: center;
+    display: block;
+}
+  .spr-badge {
+    text-align: center;
+    margin-top: 5px;
+}
+  .photos__item--main {
+    margin: 0 20px;
+}
+    .feature-collection-section-wrap .grid__item .featured-card {
+    height: auto !important;
+}
+  .main-about-content-wrap, .contact-content-wrap {
+    margin: 65px 0 0;
+}
+  .about-image-wrap {
+    margin-top: 0;
+}
+}
+
+/* ========== Max-width -- 750px =========== */
+
+
+@media(max-width: 749px){
+
+  .feature-collection-section-wrap .grid__item .featured-card {
+    margin: 0;
+    margin-bottom: 20px;
+}
+.video-section-wrap {
+    padding: 20px 0 40px;
+}
+  .site-header__cart-indicator {
+    position: absolute;
+    top: -8px;
+    right: -3px;
+    background: #b4d42d;
+    width: 15px;
+    height: 15px;
+    color: #333;;
+    line-height: 15px;
+    font-size: 10px;
+    text-align: center;
+  }
+
+}
+
+/* ========== Max-width -- 667px =========== */
+
+@media(max-width: 680px) {
+.with-rocket-brain-section-wrap ul.rocket-brain-text li {
+    font-size: 18px;
+    padding-right: 30px;
+}
+}
+
+
+/* ========== Max-width -- 575px =========== */
+
+@media(max-width: 574px){
+
+  .grid--table>.grid__item {
+    text-align: left!important;
+    padding: 5px 0;
+    padding-left: 20px;
+  }
+  button.text-link.site-header__link.js-drawer-open-left {
+    float: right;
+  }
+  .site-header__link:hover, .site-header__link:focus {
+    color: #0b0b0b;
+  }
+  .drawer--left .drawer__nav-link {
+    font-size: 16px;
+    padding: 10px;
+  }
+
+  .contact_info li{
+    display: none;
+  }
+  .top-menu {
+    text-align: center;
+    float: none;
+  }
+  .grid.grid--table.mobile-menu {
+    display: flex;
+    flex-flow: row-reverse;
+  }
+  .hero-content-wrapper {
+    max-width: 100%;
+    padding: 20px;
+  }
+  .hero-content {
+    bottom: -43px;
+  }
+  .hero-wrapper .hero-content__title-wrapper h2.hero-content__title {
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  .hero-wrapper .hero-content__title-wrapper h3.hero-content__title p {
+    font-size: 16px;
+  } 
+  .section-heading {
+    font-size: 24px;
+  }
+  .btn, .custom-btn, .hero-content__controls-item--text {
+    font-size: 16px;
+    padding: 10px 20px;
+  }
+  .feature-collection-section-wrap .grid__item .featured-card {
+    margin: 0;
+    margin-bottom: 20px;
+  }
+  .video-section-wrap {
+    padding: 0;
+    padding-bottom: 30px;
+  }
+  .video_title {
+    margin-bottom: 20px;
+  }
+  .video-section__cover {
+    min-height: 350px;
+  }
+  .change-health-section-inner {
+    padding: 0 10px;
+  }
+  .change-health-section-wrap {
+    padding: 20px 0 28px;
+  }
+  .change-health-section-inner p {
+    line-height: 22px;
+    margin-bottom: 0;
+  }
+  #shopify-section-1607437809c227e741 {
+    margin-bottom: 20px;
+  }
+  .nutraprod-care-section-wrap .section-block__header {
+    margin-bottom: 15px;
+  }
+  .column-flex__image {
+    height: 70px;
+    margin-top: 20px;
+  }
+/*   .nutraprod-care-section-wrap .column-flex__content p {
+    padding: 0 20%;
+  }  */
+  .feature-collection-section-wrap .featured-card__image-container {
+    margin: 20px auto 0px;
+  }
+  /*   .site-header__cart-indicator {
+  display: none !important;
+} */
+  #StickNavWrapper {
+    height: 60px !important;
+  }
+  .site-header__logo img {
+    max-width: 180px !important;
+    width: 180px;
+  }
+  .video-section__player-close {
+    width: 30px;
+    height: 30px;
+    line-height: 0;
+    position: fixed;
+    top: -10px;
+    left: -10px;
+  }
+  .video-section__player-close .icon {
+    fill: #000;
+    width: 18px;
+    height: 18px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .small--one-quarter {
+    width: 100%;
+  }
+  .site-header button.text-link.site-header__link.js-drawer-open-left {
+    padding-left: 15px;
+  }
+  .mobile-menu .site-header__link .icon {
+    width: 30px;
+    height: 30px;
+  }
+  .Ingredients {
+    font-size: 24px;
+    line-height: normal;
+  }
+  .try-rocket-brain-section-wrap .try-rocket-brain-risk-free .section-heading {
+    font-size: 24px;
+  }
+  .change-health-section-inner p {
+    padding: 0; 
+}
+  
+  /****** Product-details page ******
+  *********************************/
+  
+  .scaled-video iframe {
+    height: 250px;
+}
+  .single-product__description__section .product-color, .single-product__description__section .product-color.main-heading1 {
+    font-size: 24px;
+}
+  .single-product__description__section .product-color.main-subheading1, .single-product__description__section .product-color.main-subheading2 {
+    font-size: 18px;
+}
+  p, .main-content1, .main-heading-text2, .main-content5, .main-content6 {
+    margin-bottom: 10px;
+}
+.main-heading5 {
+    margin-bottom: 8px;
+    font-size: 24px;
+}
+  .pod-compatibility__table__row__cell--compatible svg {
+    max-width: 18px !important;
+}
+  .return-link {
+    font-size: 20px;
+}
+      .full-width--return-link {
+    padding: 20px 0;
+}
+    .with-rocket-brain-section-wrap ul.rocket-brain-text li {
+    margin-bottom: 8px;
+    float: none;
+    width: 100%;
+  }
+  h2.product-page__options__product-type__headline {
+    font-size: 20px;
+}
+  .vaiant-property span.product-page__type-variant__label__title {
+    font-size: 12px;
+}
+  span.money {
+    font-size: 16px;
+}
+  .product_top_info {
+    flex-wrap: wrap;
+}
+  .product-single__title {
+    font-size: 24px;
+}
+  .prd_variants {
+    flex: 0 0 50%;
+    max-width: 100%;
+    width: 50%;
+}
+.variants-section-k {
+    top: 54%;
+}
+  .products_quantity_section .SRI-widget {
+    margin-top: 65px;
+    background: transparent;
+}
+  .product-form__item.product-form__item--quantity {
+    margin-top: 100px;
+}
+    .spr-review-header {
+    text-align: center;
+}
+  .shopify-section--slideshow:first-child .hero {
+    height: 100%;
+}
+  .rte.text-center.rich-text__text--medium {
+    padding: 0 20px;
+}
+    .slick-slider {
+    margin-bottom: 0;
+}
+.product-form__item.product-form__item--quantity {
+    margin-top: 0;
+}
+p.best-seller-badge {
+    left: 4px;
+    font-size: 12px;
+    width: 98px;
+}
+/*   .products_quantity_section .SRI-widget-form label {
+    padding: 15px;
+} */
+  .products_quantity_section .SRI-widget-form label {
+    margin-right: 14px;
+}
+.products_quantity_section .SRI-widget label {
+    display: flex;
+    align-items: center;
+    height: 30px;
+    position: relative;
+    font-size: 20px;
+    color: #000;
+    margin-top: 12px;
+}
+  .main-inner-banner .small--text-center {
+    font-size: 36px;
+}
+  .content-block {
+    margin: 0;
+}
+  .main-about-content-wrap, .contact-content-wrap {
+    margin: 40px 0 0;
+}
+  .about-inner-content {
+    margin: -49px auto 0;
+    width: 90%;
+}
+  
+.about-inner-content {
+    padding: 20px 20px 20px;
+}
+}
+
+/* ========== Max-width -- 480px =========== */
+
+@media(max-width: 479px){
+  .top-menu li {
+    padding: 0 12px;
+  }
+  .top-menu li:first-child {
+    padding-left: 0;
+  }
+  .video-section__cover {
+    min-height: 300px;
+  }
+  #collection-list-grid {
+    margin-top: 20px;
+  }
+  .aboutus-section-wrap {
+    padding: 20px 0 0;
+  }
+  .feature-collection-section-wrap .grid__item .featured-card {
+    margin-bottom: 15px;42%
+  }
+  .video_title {
+    margin-bottom: 15px;
+  }
+  .change-health-section-wrap .section-heading {
+    font-size: 20px;
+  }
+  .change-health-section-wrap {
+    padding: 20px 0 20px;
+  }
+  .nutraprod-care-section-wrap .column-flex__content p {
+    padding: 0;
+  }
+  .column-flex__image {
+    margin-top: 10px;
+  }
+  .nutraprod-care-section-wrap .column-flex__content {
+    padding: 20px 0;
+  }
+  .flex-footer .flex__item:first-child {
+    padding-right: 0;
+  }
+  .hero-content {
+    bottom: -10px;
+  }
+  .site-header__logo img {
+    max-width: 150px !important;
+  }
+  .grid--table.mobile-menu>.grid__item {
+    padding-left: 15px;
+  }
+
+
+  /******  landinfg page ******
+  ****************************/
+
+
+  .main-content .banner-text1 {
+    font-size: 18px;
+    padding: 12px 10px;
+  }
+  .main-content .timer {
+    padding: 10px 0;
+  }
+  .main-content .timer h4.timer__title {
+    font-size: 16px;
+  }
+  .main-content .timer-display {
+    margin-left: 8px;
+  }
+  span.timer-block__num.js-timer-days, span.timer-block__num.js-timer-hours, span.timer-block__num.js-timer-minutes, span.timer-block__num.js-timer-seconds {
+    width: 35px;
+    height: 25px;
+    line-height: 26px;
+    font-size: 14px;
+  }
+  .main-content .countdown-timer span {
+    font-size: 14px;
+  }
+  .main-content .timer {
+    margin-bottom: 10px;
+  }
+  span.timer-second-text {
+    font-size: 16px !important;
+  }
+  .try-rocket-brain-risk-free .section-heading {
+    font-size: 22px;
+    line-height: normal;
+  }
+  .rocket-brain-coffee-text h2.rocket-brain-coffee-heading, .rocket-brain-coffee-text p {
+    line-height: 22px;
+  }
+  .rocket-brain-coffee-text p {
+    margin-bottom: 20px;
+  }
+  .outer-div-richtext h3 {
+    color: #fff;
+    font-size: 20px !important;
+    margin-bottom: 5px !important;
+  }
+  .rich_text_wide .rich-text__text--medium {
+    font-size: 18px;
+  }
+  .outer-div-richtext .try-rocket-brain-risk-free {
+    padding: 20px 0 0;
+  }
+  .outer-div-richtext .try-rocket-brain-section-wrap {
+    padding: 0 0 20px;
+  }
+  .outer-div-richtext #shopify-section-rich-text3 {
+    margin-bottom: 20px;
+  }
+  .outer-div-richtext {
+    margin-top: 20px;
+  }
+  .vitamins-section-wrap p {
+    margin-bottom: 5px;
+  }
+  .vitamins-section-wrap p:last-child {
+    margin-bottom: 0;
+  }
+  #shopify-section-image-content-3 {
+    margin-bottom: 20px !important;
+  }
+  #shopify-section-image-content-2 {
+    margin-bottom: 20px;
+  }
+  .with-rocket-brain-section-wrap h4.rich-text__heading--medium.section-heading {
+    margin-bottom: 20px;
+    font-size: 18px;
+    line-height: normal;
+    letter-spacing: normal;
+  }
+  .with-rocket-brain-section-wrap ul.rocket-brain-text li {
+    font-size: 16px;
+  }
+  .Ingredients {
+    font-size: 20px;
+  }
+  .rich_text_wide .rich-right.rich-text__text--medium {
+    margin-bottom: 20px;
+  }
+  .with-rocket-brain-section-wrap ul.rocket-brain-text li:last-child {
+    margin-bottom: 0;
+  }
+  #shopify-section-image-content-1 {
+    margin-bottom: 20px;
+  }
+
+  #shopify-section-image-content-1 .aboutus-section-wrap {
+    Padding-top: 20px;
+  }
+  .vitamins-section-wrap {
+    padding-top: 0 !important;
+  }
+  .try-rocket-brain-section-wrap .try-rocket-brain-risk-free {
+    padding: 15px 0 0;
+  }
+  .try-rocket-brain-section-wrap .try-rocket-brain-risk-free .section-heading {
+    font-size: 20px;
+  }
+  .with-rocket-brain-section-wrap .try-rocket-brain-risk-free {
+    padding: 0;
+}
+  
+    /****** Product-details page ******
+  *********************************/
+  
+  .scaled-video iframe {
+    height: 200px;
+}
+  .single-product__description__section .product-color, .single-product__description__section .product-color.main-heading1 {
+    font-size: 20px;
+    margin-bottom: 5px;
+}-5px
+  .main-heading5 {
+    margin-bottom: 5px;
+    font-size: 20px;
+}
+  .single-product__description__section .product-color.main-subheading1, .single-product__description__section .product-color.main-subheading2 {
+    font-size: 16px;
+}
+  .single-product__description__section--main-content .main-image5 {
+    max-width: 100%;
+}
+    .pod-compatibility__table__row__cell--compatible svg {
+    max-width: 16px !important;
+}
+  td, th {
+    padding: 8px;
+}
+  .return-link {
+    font-size: 18px;
+}
+  .product-form__item.product-form__item--quantity {
+    justify-content: center;
+}
+  span.money {
+    font-size: 14px;
+}
+.variants-section-k {
+    top: 51%;
+}
+.product-form__item.product-form__item--quantity {
+    margin-top: 0;
+    padding: 10px 20px 10px;
+}
+  .js-qty {
+    max-width: 110px;
+}
+  .product-form__item label {
+    font-size: 14px;
+}
+  .product-single__title {
+    font-size: 20px;
+}
+  span.spr-badge-caption, h3.sub-title {
+    font-size: 16px;
+}
+  .product_heading {
+    width: 100%;
+}
+  del span.money {
+    font-size: 14px;
+}
+  .hero-wrapper .hero-content__title-wrapper h2.hero-content__title {
+    font-size: 24px;
+    margin-bottom: 0;
+}
+  .hero-content {
+    bottom: 20px;
+}
+  .rte.text-center.rich-text__text--medium {
+    padding: 0 15px;
+}
+  .customer-reviews .section-block--padding {
+    padding: 15px 0 0;
+}
+  .customer-reviews .section-block__header {
+    margin-bottom: 0;
+}
+  .featured-card__blank-image-container .featured-card__image {
+    max-width: 220px;
+}
+  .feature-collection-section-wrap .grid__item .featured-card {
+    min-height: 330px;
+}
+  .featured-card__blank-image-container {
+    margin: 0;
+}
+  .product-single__thumbnails {
+    margin: 0;
+}
+  .product-single__thumbnail {
+    height: 60px;
+    max-width: 60px;
+}
+  .product__photo-container {
+    max-width: 200px !important;
+}
+  p.best-seller-badge {
+    left: 5px;
+    font-size: 11px;
+}
+  p.best-seller-badge {
+    width: 70px;
+}
+.product-single__thumbnail-item.product-single__thumbnail-item-product-template {
+    width: 60px !important;
+}
+  .medium-up--three-fifths {
+    margin-bottom: 10px;
+}
+  .products_quantity_section .SRI-widget label {
+    display: flex;
+    align-items: center;
+    height: 30px;
+    position: relative;
+    font-size: 14px;
+    color: #000;
+    margin-top: 12px;
+    padding: 10px 10px;
+        margin-right: 3px;
+}
+  .products_quantity_section .SRI-widget label input {
+    margin: 0 5px 0 0;
+}
+  .product-single__thumbnail img {
+    height: 50px;
+}
+  .main-inner-banner {
+    padding: 60px 0;
+}
+  .about-inner-content {
+    padding: 20px;
+}
+.hero-content__title-wrapper h3 p {
+    font-size: 20px !important;
+}
+
+.hero-content {
+    bottom: -42px;
+}
+}
+
+@media (max-width: 429px){
+.variants-section-k {
+    top: 55%;
+}
+}
+/* ========== Max-width -- 375px =========== */
+
+@media (max-width: 374px){
+
+  .flex-footer .flex__item {
+    flex: 0 0 100% !important;
+  }
+  .hero-content-wrapper {
+    text-align: center;
+  }
+  .hero-wrapper .hero-content__title-wrapper h2.hero-content__title {
+    font-size: 22px;
+  }
+  .hero-content-wrapper {
+    text-align: left;
+    /*     padding: 20px; */
+  }
+  .top-menu li {
+    padding: 0 9px;
+  }
+  .aboutus-section-wrap {
+    padding: 20px 0 0;
+  }
+  .flex__item .image-content__text {
+    padding: 10px 0 0;
+  }
+  p {
+    margin-bottom: 10px;
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .section-heading {
+    font-size: 22px;
+  }
+  .aboutus-section-wrap .section-heading{
+    margin-bottom: 5px;
+  }
+  .btn, .custom-btn, .hero-content__controls-item--text {
+    font-size: 14px;
+    padding: 8px 16px;
+  }
+  .featured-card__header .featured-card__title {
+    font-size: 18px;
+    margin-bottom: 0;
+  }
+  .featured-card__header .featured-card__action {
+    font-size: 14px;
+  }
+  .featured-card__action::after {
+    width: 7px;
+    height: 7px
+  }
+  .video-section__load-player-button--large .video-section__load-player-button-circle, .video-section__load-player-button--large .video-section__load-player-icon {
+    width: 60px;
+    height: 60px;
+  }
+  .video-section__cover {
+    min-height: 220px;
+  }
+  .change-health-section-wrap .section-heading {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  .change-health-section-inner p{
+    line-height: 20px;
+  }
+  .change-health-section-wrap .black-bg {
+    font-size: 14px;
+  }
+  #shopify-section-1607437809c227e741, .nutraprod-care-section-wrap .section-block__header  {
+    margin-bottom: 10px;
+  }
+  .column-flex__image {
+    margin-top: 0;
+  }
+  .nutraprod-care-section-wrap .column-flex__content p.h5 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  .nutraprod-care-section-wrap .column-flex__content {
+    padding: 10px 0 20px;
+  }
+  .index-section {
+    margin-bottom: 0;
+  }
+  .site-footer {
+    padding-top: 10px;
+  }
+  .site-footer p {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  h4.h1.site-footer__section-title {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  .site-footer__section li {
+    margin-bottom: 5px;
+    font-size: 14px;
+  }
+  .site-footer__list li.site-footer__list-item a {
+    font-size: 14px;
+  }
+  .site-footer__section {
+    padding-bottom: 15px;
+  }
+  .video-section__player-close {
+    width: 25px;
+    height: 25px;
+  }
+  .video-section__player-close .icon {
+    width: 15px;
+    height: 15px;
+  }
+  .try-rocket-brain-risk-free .section-heading {
+    font-size: 18px;
+    line-height: normal;
+  }
+  .rocket-brain-coffee-text p {
+    line-height: 20px;
+  }
+  #shopify-section-image-content-1 {
+    margin-bottom: 20px;
+  }
+  .Ingredients {
+    font-size: 18px;
+  }
+  .outer-div-richtext h3 {
+    font-size: 18px !important;
+  }
+  .outer-div-richtext .try-rocket-brain-risk-free {
+    padding: 10px 0 0;
+  }
+  .outer-div-richtext .try-rocket-brain-section-wrap {
+    padding: 0 0 10px;
+  }
+  .rich_text_wide .rich-text__text--medium {
+    font-size: 16px;
+  }
+  .change-health-section-wrap .black-bg, .outer-div-richtext .black-bg {
+    font-size: 14px;
+  }
+  .rich_text_wide .rich-right.rich-text__text--medium {
+    margin-bottom: 10px;
+  }
+  #shopify-section-image-content-3 {
+    margin-bottom: 20px;
+  }
+  .with-rocket-brain-section-wrap ul.rocket-brain-text li {
+    font-size: 14px;
+    font-weight: normal;
+    padding: 0;
+    margin-bottom: 5px;
+  }
+  .with-rocket-brain-section-wrap h4.rich-text__heading--medium.section-heading {
+    margin-bottom: 15px;
+    font-size: 15px;
+  }
+  .with-rocket-brain-section-wrap ul.rocket-brain-text li::after {
+    width: 16px;
+    height: 16px;
+  }
+  .with-rocket-brain-section-wrap ul.rocket-brain-text li::before {
+    width: 7px;
+    height: 4px;
+    transform: rotate(-35deg);
+  }
+  #shopify-section-image-content-2 {
+    margin-bottom: 20px;
+  }
+  .main-content .banner-text1 {
+    font-size: 16px;
+    padding: 12px 10px;
+  }
+  .outer-div-richtext #shopify-section-rich-text3 {
+    margin-bottom: 10px;
+  }
+  .vitamins-section-wrap p:last-child {
+    margin-bottom: 0;
+  }
+  .try-rocket-brain-section-wrap .try-rocket-brain-risk-free .section-heading {
+    font-size: 18px;
+  }
+  
+ /****** Product-details page ******
+  *********************************/
+  
+  .single-product__description__section .pod-compatibility__table__row__cell--brewer {
+    font-size: 14px;
+}
+  .pod-compatibility__table__row__cell--compatible svg {
+    max-width: 14px !important;
+}
+  .single-product__description__section .product-color, .single-product__description__section .product-color.main-heading1 {
+    font-size: 18px;
+}
+  .single-product__description__section .product-color.main-heading1 {
+    margin-bottom: 0;
+}
+  .single-product__description__section .product-color.main-subheading1, .single-product__description__section .product-color.main-subheading2 {
+    font-size: 14px;
+}
+.main-heading5 {
+    font-size: 18px;
+}
+    td, th {
+    padding: 6px;
+}
+  .return-link {
+    font-size: 16px;
+}
+.nutraprod-care-section-wrap .column-flex__content p {
+    padding: 0;
+}
+  span.product-page__type-variant__label__title {
+    font-size: 14px;
+}
+/*   .product-page__type-variant__label__image-section {
+    width: 100px;
+    height: 100px;
+} */
+  span.product-page__type-variant__label__title::after {
+    top: 4px;
+}
+  .vaiant-property {
+    margin: 0 5px 0 0;
+}
+  .variants-section-k {
+    padding: 0 10px;
+    top: 59%;
+}
+  .products_variants_section {
+    padding: 10px;
+}
+  img.product-page__type-variant__label__image {
+    max-width: 70px;
+    width: 100%;
+}
+  h2.product-page__options__product-type__headline {
+    font-size: 18px;
+}
+  .js-qty {
+    max-width: 100px;
+}
+  .js-qty__input {
+    padding: 10px;
+}
+  .product-single__title {
+    font-size: 18px;
+}
+  span.spr-badge-caption, h3.sub-title {
+    font-size: 14px;
+}
+  .try-rocket-brain-section-wrap .try-rocket-brain-risk-free .rich-text__text--medium p:last-child {
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+  .slick-slider {
+    margin-bottom: 30px;
+}
+ .product-form__item.product-form__item--quantity {
+    margin-top: 40px;
+}
+.variants-section-k {
+    top: 55%;
+}
+  p.best-seller-badge {
+    left: 2px;
+}
+  p.best-seller-badge {
+    width: 60px;
+}
+  span.product-page__type-variant__label__title::after {
+    top: 4px;
+}  
+.prd_detail_sec span.product-page__type-variant__label__title::after {
+    top: 3px;
+} 
+  
+.products_quantity_section .SRI-widget {
+    margin-top: 72px;
+}
+  .main-inner-banner .small--text-center {
+    font-size: 30px;
+}
+}
+
+
+@media (max-width: 360px){
+/* .variants-section-k {
+    top: 45%;
+} */
+.products_quantity_section .SRI-widget {
+    margin-top: 75px;
+    background: transparent;
+}
+  .product-form__item.product-form__item--quantity {
+    margin-top: 0;
+}
+}
+
+@media (max-width: 320px){
+
+  .outer-div-richtext h3 {
+    font-size: 17px !important;
+
+  }
+  .featured-card__blank-image-container {
+    margin: 0;
+}
+    .products_quantity_section .SRI-widget label {
+    display: flex;
+    align-items: center;
+    height: 31px;
+    position: relative;
+    font-size: 14px;
+    color: #000;
+    margin-top: 12px;
+    width: 100%;
+    padding: 10px 10px;
+    margin-right: 3px;
+    margin-bottom: 0;
+}
+/*   .variants-section-k {
+    top: 50%;
+} */
+.product-form__item.product-form__item--quantity {
+    margin-top: 0;
+}
+.products_quantity_section .SRI-widget-form label {
+    clear: both;
+    float: none;
+}
+  .products_quantity_section .SRI-widget-form div:last-child div {
+    margin-top: 10px;
+}
+  .hero-content-wrapper {
+    padding: 15px;
+}
+  .hero-content {
+    bottom: -38px;
+}
+  .coffee-beans span.product-page__type-variant__label__title::after {
+    top: 4px;
+}
+}
