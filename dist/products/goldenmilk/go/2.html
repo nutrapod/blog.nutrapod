@@ -26,9 +26,7 @@
   <link rel="stylesheet" href="css/comments.css" media="screen, projection">
   <!-- UIkit CSS -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@latest/dist/css/uikit.min.css">
-    <!-- UIkit JS -->
-    <script src="https://cdn.jsdelivr.net/npm/uikit@latest/dist/js/uikit.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/uikit@latest/dist/js/uikit-icons.min.js"></script>
+    
   <script async="" src="https://cdn.ampproject.org/v0.js"></script>
 
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -72,8 +70,7 @@ color: #FFFFFF; }
 .btn-round-green-modal { font-weight: 500; background-color: #327e32; color: #FFFFFF; border: none; color: white; padding: 5px 15px; text-align: center; text-decoration: none; display: block; font-size: 18px; margin: 4px 0px; cursor: pointer; max-width: 100%; display: inline-block; border-radius: 5px; border: 1px solid #327e32}
 </style>
 </head>
-<body>
-
+<body class="recode">
   <!-- Start Navbar -->
   <header id="header" style="background-color: #fff;" data-uk-sticky="show-on-up: true; animation: uk-animation-fade; media: @l">
     <div class="progress"></div>
@@ -270,8 +267,8 @@ color: #FFFFFF; }
 
 
 
-  
-  <sidebar class="uk-visible@s commerce-blog-sidebar commerce-side-panel uk-padding md-col-4 md-px4 md-pt6">
+<div class="uk-visible@s">
+  <sidebar id="sidebar">
     <h3 id="ukh2">Customer Reviews</h3>
     <hr>
     <a class="uk-container-small uk-margin-remove-top" href="https://nutrapod.co/products/pods-2"><img class="uk-border-rounded uk-margin-auto" src="images/sidetest1.jpg" alt="" width="auto" height="auto" layout="responsive"/></a>
@@ -376,6 +373,7 @@ color: #FFFFFF; }
 </div>
     
 </sidebar>
+</div>
 </main>
     <!--FOOTER-->
 <footer class="uk-background-secondary uk-text-meta uk-margin-medium-top uk-margin-remove-bottom">
