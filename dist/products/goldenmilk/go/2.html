@@ -94,7 +94,7 @@ color: #FFFFFF; }
 
 <!-- End Navbar -->
 <main class="main md-flex flex-wrap items-start uk-margin-remove-top">
-    <section class="commerce-blog-wrapper col-12 md-col-8 px2 pb3 md-px4 md-pt1 md-pb3">
+    <section class="commerce-blog-wrapper col-12 md-col-8 px2 pb3 md-px4 md-pt1 md-pb3 uk-first-column">
   <h1 id="ukh1" class="uk-text-bold uk-h1 uk-margin-small-top">How I Tackled Rheumatoid Arthritis and Got My Life Back</h1>
   
   <a href="https://nutrapod.co/products/pods-2"><amp-img src="images/gm2hero1.png" alt="" width="1080" height="720" layout="responsive"></amp-img></a><br />
@@ -270,12 +270,12 @@ color: #FFFFFF; }
 
 
 
-
-<aside class="commerce-blog-sidebar commerce-side-panel uk-padding md-col-4 md-px4 md-pt6 uk-margin-remove-top uk-padding-remove-top">
-    <h1 class="h4 md-pb2">Customer Reviews</h1>
-      <a class="uk-container-small uk-margin-remove-top" href="https://nutrapod.co/products/pods-2"><img class="uk-border-rounded uk-margin-auto" src="images/sidetest1.jpg" alt="" width="auto" height="auto" layout="responsive"/></a>
-      
-      <p class="uk-margin-small-bottom">
+  
+  <aside class="commerce-blog-sidebar commerce-side-panel uk-padding md-col-4 md-px4 md-pt6">
+    <h3 id="ukh2">Customer Reviews</h3>
+    <hr>
+    <a class="uk-container-small uk-margin-remove-top" href="https://nutrapod.co/products/pods-2"><img class="uk-border-rounded uk-margin-auto" src="images/sidetest1.jpg" alt="" width="auto" height="auto" layout="responsive"/></a>
+     <p class="uk-margin-small-bottom">
         <i><span style="color:#679324;font-size:20px;">- Verified Customer -</span></i>
       </p>
       <p id="reviewtext" class="uk-margin-remove-top">"When I found out I had RA it was really tough, and even after living with it for years, I still rely on the little..."<a href="#modal-group-1" uk-toggle> read more </a></p>
@@ -317,11 +317,11 @@ color: #FFFFFF; }
             <h2 class="uk-modal-title">Customer Review</h2>
         </div>
         <div class="uk-modal-body">
-            <div class="uk-container-small"><img class="uk-border-rounded uk-margin-auto" src="images/sidetest2.jpg" alt="" width="300" height="200" layout="responsive" /></div>
-            <p>I wasn’t sure if the Rocket Brain was working until I stopped taking it and realized how much more foggy my brain was. Needless to say I haven’t missed a day since ☺</p>
+          <div class="uk-container-small"><img class="uk-border-rounded uk-margin-auto" src="images/sidetest1.jpg" alt="" width="auto" height="auto" layout="responsive"/></div>
+            <p id="reviewtext">"Learning I had RA was tough, and even after living with it for years, I still rely on the little "quirks" or "remedies" I find to cope with it daily. But Golden Milk has given me so much extra--I feel like I'm a kid again. 10/10 would recommend.” - <b>Verified Customer</b></p>
         </div>
         <div class="uk-modal-footer uk-text-right">
-            <button class="uk-button btn-round-white uk-modal-close" type="button">Close</button>
+            <button class="uk-button btn-round-white uk-flex-right uk-modal-close" type="button">Close</button>
             <a href="#modal-group-3" class="uk-button btn-round-modal btn-round-green-modal uk-margin-auto-vertical" uk-toggle>Next</a>
         </div>
     </div>
@@ -333,18 +333,50 @@ color: #FFFFFF; }
             <h2 class="uk-modal-title">Customer Review</h2>
         </div>
         <div class="uk-modal-body">
-        <div class="uk-container-small"><img class="uk-border-rounded uk-margin-auto" src="images/sidetest3.jpg" alt="" width="300" height="200" layout="responsive" /></div>
-          <p>I wasn’t sure if the Rocket Brain was working until I stopped taking it and realized how much more foggy my brain was. Needless to say I haven’t missed a day since ☺</p>
+          <div class="uk-container-small"><img class="uk-border-rounded uk-margin-auto" src="images/sidetest1.jpg" alt="" width="auto" height="auto" layout="responsive"/></div>
+            <p id="reviewtext">"Learning I had RA was tough, and even after living with it for years, I still rely on the little "quirks" or "remedies" I find to cope with it daily. But Golden Milk has given me so much extra--I feel like I'm a kid again. 10/10 would recommend.” - <b>Verified Customer</b></p>
         </div>
         <div class="uk-modal-footer uk-text-right">
-            <button class="uk-button btn-round-white uk-modal-close" type="button">Close</button>
+            <button class="uk-button btn-round-white uk-flex-right uk-modal-close" type="button">Close</button>
             <a href="#modal-group-2" class="uk-button btn-round btn-round-green-modal uk-margin-auto-vertical" uk-toggle>Previous</a>
+        </div>
+    </div>
+      </div>
+    </div>
+
+<!-- Modals -->
+<div id="modal-group-1" uk-modal>
+    <div class="uk-modal-dialog">
+        <button class="uk-modal-close-default" type="button" uk-close></button>
+        <div class="uk-modal-header">
+            <h2 class="uk-modal-title">Headline 1</h2>
+        </div>
+        <div class="uk-modal-body">
+            <p>"This sticks so well! Perfect for me, since my drain is in the center of shower. I didn't think a sunction-cup mat like this was an option, but turns out it's perfect!”</p>
+        </div>
+        <div class="uk-modal-footer uk-text-right">
+            <button class="uk-button btn-round-white uk-flex-right uk-modal-close" type="button">Cancel</button>
+            <a href="#modal-group-2" class="uk-button uk-margin-auto-vertical btn-round-green" uk-toggle>Next</a>
+        </div>
+      </div>
+      <div id="modal-group-2" uk-modal>
+    <div class="uk-modal-dialog">
+        <button class="uk-modal-close-default" type="button" uk-close></button>
+        <div class="uk-modal-header">
+            <h2 class="uk-modal-title">Headline 2</h2>
+        </div>
+        <div class="uk-modal-body">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        </div>
+        <div class="uk-modal-footer uk-text-right">
+            <button class="uk-button btn-round-white uk-modal-close" type="button">Cancel</button>
+            <a href="#modal-group-1" class="uk-button btn-round btn-round-green uk-margin-auto-vertical" uk-toggle>Previous</a>
         </div>
     </div>
 </div>
     
 </aside>
-  </main>
+</main>
     <!--FOOTER-->
 <footer class="uk-background-secondary uk-text-meta uk-margin-medium-top uk-margin-remove-bottom">
     <div class="uk-container uk-padding">
